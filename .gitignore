@@ -5,10 +5,13 @@ __pycache__/
 venv/
 .env
 
-# Data - dataset je prevelik za GitHub
+# Data
+UCI HAR Dataset/
 data/
 .claude/
-UCI HAR Dataset/
+
+# Generated plot outputs
+*.png
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
