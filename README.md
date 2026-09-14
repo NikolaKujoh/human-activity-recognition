@@ -6,8 +6,6 @@ Replicating and extending the results from Anguita et al. (2013) on the UCI HAR 
 
 Six everyday activities (walking, walking upstairs, walking downstairs, sitting, standing, laying) are classified using 561 time- and frequency-domain features extracted from accelerometer and gyroscope signals of a waist-mounted smartphone. Logistic Regression, SVM, Random Forest, and Gradient Boosting are trained and evaluated, with results benchmarked against the original Anguita et al. (2013) paper.
 
-Full write-up (EDA, methodology, results, and error analysis) is available in [`Izveštaj.pdf`](./Izveštaj.pdf).
-
 ## Dataset
 
 UCI Human Activity Recognition Using Smartphones Dataset  
